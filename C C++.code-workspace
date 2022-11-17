@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/assignment1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"string": "cpp",
+			"__locale": "cpp",
+			"__string": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"__bit_reference": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"unordered_map": "cpp",
+			"algorithm": "cpp"
+		}
+	}
+}
