@@ -1,7 +1,7 @@
 # Repo Info
 This is a repo for learning essential things for c++
 
-## How to compile c++ files [Reference][link] 
+## How to compile c++ files
 1. You need to run bash or zsh
 2. use `cd` to get into the **directory** that you made
 3. Then type `g++ "name of your cpp name" -o "name of your directory"` for example `g++ helloworld.cpp -o hello`
