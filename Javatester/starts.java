@@ -18,7 +18,7 @@ public class starts {
 				System.out.print("*");
 			System.out.println();
 		}
-		for(int i =a; i>=0;i--) {
+		/*for(int i =a; i>=0;i--) {
 			for(int j =0; j<a-i; j++) {
 				System.out.print(" ");
 			}
@@ -28,6 +28,6 @@ public class starts {
 			for(int v =0; v< i+1; v++)
 				System.out.print("*");
 			System.out.println();
-		}
+		}*/
 	}
 }
